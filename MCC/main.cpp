@@ -1,6 +1,6 @@
 /**
  * \file    main.cpp
- * \author  Salvador García <sglopez@ujaen.es>
+ * \author  Salvador Garcï¿½a <sglopez@ujaen.es>
  * \version 1.0
  *
  * \section DESCRIPTION
@@ -13,6 +13,7 @@
 #include <string.h>
 
 using namespace std;
+
 
 int main(int argc, char * argv[])
 {
@@ -46,3 +47,4 @@ int main(int argc, char * argv[])
 
 	return 0;
 }
+

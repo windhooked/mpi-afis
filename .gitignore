@@ -1,0 +1,8 @@
+commons/*.o
+mcc/*.o
+mcc/*.exe
+mcc/*.dll
+mcc/*.a
+MatcherJiang/*.o
+MatcherJiang/*.exe
+MatcherJiang/*.a
